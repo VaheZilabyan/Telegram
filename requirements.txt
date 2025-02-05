@@ -1,0 +1,4 @@
+aiogram
+instaloader
+asyncio
+shutil
